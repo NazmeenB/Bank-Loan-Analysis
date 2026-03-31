@@ -75,7 +75,3 @@ jupyter notebook Bank_Loan_Analysis.ipynb
 - **SQL:** Import `financial_loan.csv` into SQL Server → run `SQLQuery1.sql`
 - **Power BI:** Open `.pbix` → update data source → refresh
 
----
-
-## 👩‍💻 Author
-**Nazmeen B** | [LinkedIn](https://www.linkedin.com/in/nazmeenb/) | [GitHub](https://github.com/NazmeenB) | nazmeenb789@gmail.com
